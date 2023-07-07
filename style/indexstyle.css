@@ -11,12 +11,39 @@
   font-size: 3vw
 }
 
-.headerDivs {
-  height: 60vh;
+@media screen and (orientation: landscape){
+  .headerDivs {
+    height: 60vh;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  #headerDivCenter {
+    background-color: #ff0841;
+  
+    height: 60vh;
+    width: 20vw;
+  }
+
+}
+
+@media screen and (orientation: portrait){
+  .headerDivs {
+    height: 40vh;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  #headerDivCenter {
+    background-color: #ff0841;
+  
+    height: 40vh;
+    width: 20vw;
+  }
 }
 
 .headerDivs h1, .headerDivs h3 {
@@ -27,13 +54,6 @@
   background-image: url('images/IMG_5148.png');
 
   width: 40vw;
-}
-
-#headerDivCenter {
-  background-color: #ff0841;
-  
-  height: 60vh;
-  width: 20vw;
 }
 
 #headerDivRight {
