@@ -56,15 +56,11 @@ header {
 
 #opener {
   background-color: #1e201c;
-  text-align: center;
+  text-align: left;
   color: #ffffff;
 
   margin: 0;
   padding: 1vw;
-}
-
-#openerHeading {
-  text-align: left;
 }
 
 #openerUnderline {
