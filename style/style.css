@@ -17,7 +17,7 @@ body {
 
 .headerDivs {
   height: 60vh;
-  width: 40vw;
+  width: 45vw;
 
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ body {
 #headerDivCenter {
   background-color: #ff0841;
   height: 60vh;
-  width: 20vw;
+  width: 10vw;
 }
 
 #headerDivRight {
