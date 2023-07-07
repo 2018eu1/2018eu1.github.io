@@ -6,7 +6,6 @@ html, body {
 }
 
 body {
-  background-image: url(https://images.app.goo.gl/8oK3iyqY5kgNh43t9);
   font-family: Avenir Next;
   overflow: hidden;
 }
@@ -28,7 +27,7 @@ body {
 }
 
 #headerDivLeft {
-  background-image: url(/images/IMG_5148.png);
+  background-image: url("/images/IMG_5148.png");
 
   position: absolute;+
   width: 52.5vw
