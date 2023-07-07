@@ -2,15 +2,16 @@
   overflow: hidden;
   display: flex;
   flex-direction: row;
-  background-color: #F1f1ee;
+  background-color: #135489;
 }
 
 .navbarbuttons {
   text-align: center;
   padding: 10px;
+  font-weight: bold;
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
