@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
+/* Alles für den Header */
+
 #headerBienvenue {
   color: #135489;
 }
@@ -42,4 +44,19 @@ header {
   justify-content: center;
 
   padding: 0;
+}
+
+/* Einleitungstext */
+
+#opener {
+  background-color: #1e201c;
+  text-align: center;
+}
+
+#openerText {
+  color: #ffffff;
+}
+
+#openerUnderline {
+  height: 5vw;
 }
