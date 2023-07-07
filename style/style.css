@@ -9,12 +9,21 @@ body {
   color: #135489;
 }
 
+.headerDivs {
+  height: 60vh;
+  width: 40vw;
+}
+    
+}
+
 #headerDivLeft {
   background-image: url(/images/IMG_5148.png);
 }
 
 #headerDivCenter {
   background-color: #ff0841;
+  height: 60vh;
+  width: 20vw;
 }
 
 #headerDivRight {
