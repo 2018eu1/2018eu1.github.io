@@ -17,7 +17,7 @@ body {
 
 .headerDivs {
   height: 60vh;
-  width: 45vw;
+  width: 47.5vw;
 
   display: flex;
   flex-direction: column;
@@ -35,12 +35,16 @@ body {
 #headerDivCenter {
   background-color: #ff0841;
   height: 60vh;
-  width: 10vw;
+  width: 5vw;
+
+  clip-path: polygon(100% 0, 100% 100%, 0 100%)
 }
 
 #headerDivRight {
   background-color: #00279c;
   color: #ffffff;
+
+  clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
 }
 
 header {
