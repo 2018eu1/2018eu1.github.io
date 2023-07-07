@@ -10,10 +10,6 @@ body {
   overflow: hidden;
 }
 
-main {
-  z-index: 1;
-}
-
 #headerBienvenue {
   color: #135489;
 }
@@ -33,31 +29,20 @@ main {
 #headerDivLeft {
   background-image: url("/images/IMG_5148.png");
 
-  width: 60vw;
-  z-index: 2;
-
-  position: absolute;
+  width: 40vw;
 }
 
 #headerDivCenter {
   background-color: #ff0841;
+  
   height: 60vh;
-  width: 20vw;
-
-  clip-path: polygon(66.6% 0, 100% 0, 66.6% 100%, 0 100%);
-  z-idex: 3;
-
-  position: absolute;
+  width: 10vw;
 }
 
 #headerDivRight {
   background-color: #00279c;
   color: #ffffff;
   width: 40vw;
-
-  z-index: 2;
-
-  position: absolute;
 }
 
 header {
@@ -67,5 +52,4 @@ header {
   justify-content: center;
 
   padding: 0;
-  z-index: 1;
 }
