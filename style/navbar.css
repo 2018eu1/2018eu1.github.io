@@ -9,6 +9,10 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
+#navbarLangue {
+  margin-left: auto;
+}
+
 .navbarbuttons {
   text-align: center;
   padding: 10px;
