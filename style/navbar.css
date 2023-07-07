@@ -1,1 +1,16 @@
+#navbar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  background-color: #F1f1ee;
+}
 
+.navbarbuttons {
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
