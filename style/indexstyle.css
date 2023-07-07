@@ -103,13 +103,13 @@ header {
 
 .pageLinkButtons {
   border: 0;
-  padding: 1vw;
+  padding: 10px;
   background-color: #f3fd0d;
 }
 
 .pageLinkButtons a {
   color: black;
   text-decoration: none;
-  font-size: 1.5vw;
+  font-size: 16px;
   font-family: 'Barlow', sans-serif; 
 }
