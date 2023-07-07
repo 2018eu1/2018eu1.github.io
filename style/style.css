@@ -17,7 +17,6 @@ body {
 
 .headerDivs {
   height: 60vh;
-  width: 47.5vw;
 
   display: flex;
   flex-direction: column;
@@ -30,6 +29,9 @@ body {
 
 #headerDivLeft {
   background-image: url(/images/IMG_5148.png);
+
+  position: absolute;+
+  width: 52.5vw
 }
 
 #headerDivCenter {
@@ -43,6 +45,7 @@ body {
 #headerDivRight {
   background-color: #00279c;
   color: #ffffff;
+  width: 47.5vw;
 
   clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
 }
