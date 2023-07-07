@@ -5,3 +5,7 @@ body {
   overflow: hidden;
   min-height: 100vh;
 }
+
+.subheadings {
+  font-size: 3vw;
+}
