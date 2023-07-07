@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
+body {
+  background-image: url('https://images.app.goo.gl/8oK3iyqY5kgNh43t9');
+}
+
 h1 {
   color: #135489;
   text-align: left;
