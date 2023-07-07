@@ -1,8 +1,12 @@
+
+
 #navbar {
   overflow: hidden;
   display: flex;
   flex-direction: row;
   background-color: #135489;
+
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .navbarbuttons {
