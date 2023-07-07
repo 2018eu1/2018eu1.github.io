@@ -44,6 +44,7 @@ header {
   justify-content: center;
 
   padding: 0;
+  margin: 0;
 }
 
 /* Einleitungstext */
@@ -52,8 +53,12 @@ header {
   background-color: #1e201c;
   text-align: center;
   color: #ffffff;
+
+  margin: 0;
+  padding: 5vw;
 }
 
 #openerUnderline {
   height: 5vw;
+  background-color: #f3fd0d;
 }
