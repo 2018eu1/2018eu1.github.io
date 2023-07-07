@@ -87,3 +87,27 @@ header {
   height: 3vw;
   background-color: #f3fd0d;
 }
+
+/* Link-Buttons */
+
+#pageLinks {
+  display: flex;
+  flex-direction: column;
+}
+
+#linkDivs {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.pageLinkButtons {
+  border: 0;
+  padding: 1vw;
+  background-color: #f3fd0d;
+}
+
+.pageLinkButtons a {
+  color: black;
+  text-decoration: none;
+}
