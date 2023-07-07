@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,500&family=Ubuntu:wght@300&display=swap');
 /* Alles für den Header */
 
 #headerBienvenue {
@@ -110,4 +110,6 @@ header {
 .pageLinkButtons a {
   color: black;
   text-decoration: none;
+  font-size: 1.5vw;
+  font-family: 'Barlow', sans-serif; 
 }
