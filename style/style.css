@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
 body {
   background-image: url(https://images.app.goo.gl/8oK3iyqY5kgNh43t9);
   font-family: Avenir Next;
