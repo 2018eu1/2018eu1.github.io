@@ -5,10 +5,14 @@ body {
   font-family: Avenir Next;
 }
 
-h1 {
+#headerBienvenue {
   color: #135489;
 }
 
-#einleitung {
-  color: #135489;
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: center;
 }
