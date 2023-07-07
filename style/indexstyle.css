@@ -95,7 +95,7 @@ header {
   flex-direction: column;
 }
 
-#linkDivs {
+.linkDivs {
   display: flex;
   flex-direction: row;
   align-items: stretch;
