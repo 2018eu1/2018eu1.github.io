@@ -9,10 +9,25 @@ body {
   color: #135489;
 }
 
+#headerDivLeft {
+  background-image: url(/images/IMG_5148.png);
+}
+
+#headerDivCenter {
+  background-color: #ff0841;
+}
+
+#headerDivRight {
+  background-color: #135489;
+  color: #ffffff;
+}
+
 header {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: center;
+
+  padding: 0;
 }
