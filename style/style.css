@@ -3,6 +3,7 @@
 body {
   background-image: url(https://images.app.goo.gl/8oK3iyqY5kgNh43t9);
   font-family: Avenir Next;
+  overflow: hidden;
 }
 
 #headerBienvenue {
