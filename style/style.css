@@ -1,11 +1,7 @@
-/* Websitetitel
-*/
-
-
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 body {
-  background-image: url('https://images.app.goo.gl/8oK3iyqY5kgNh43t9');
+  background-image: url(https://images.app.goo.gl/8oK3iyqY5kgNh43t9);
   font-family: 'Ubuntu', sans-serif;
 }
 
