@@ -3,6 +3,7 @@
 body {
   font-family: Avenir Next;
   overflow: hidden;
+  min-height: 100vh;
 }
 
 #headerBienvenue {
