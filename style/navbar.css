@@ -17,18 +17,6 @@
     display: none;
   }
 
-  #navbarLangue {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    color: #ffffff;
-  
-    margin-left: auto;
-  }
-
-  #languageIcon {
-    margin: 5px;  
-  }
 
   .navbarbuttons {
     text-align: center;
@@ -114,15 +102,19 @@
     color: #ffffff;
     text-decoration: none;
   }
-  
-  #navbarLangue {    
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    color: #ffffff;
-  }
+}
 
-  #languageIcon {
-    margin: 5px;
-  }
+/* Sprache wechseln */
+
+#navbarLangue {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff;
+
+  margin-left: auto;
+}
+
+#languageIcon {
+  margin: 5px;  
 }
