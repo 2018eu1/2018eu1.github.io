@@ -59,11 +59,22 @@
     overflow: hidden;
     display: flex;
     flex-direction: row;
-    justiify-content: space-between;
+    justify-content: space-between;
     background-color: #135489;
     font-family: 'Ubuntu', sans-serif;
   }
 
+  .navbarbuttons {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+
+    /* flexbox */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
   #navbardropcontent {
     display: none;
     position: absolute;
@@ -82,7 +93,7 @@
     padding: 0;
   }
 
-  .navbardropbuttons, #navbardrop {  
+  .navbardropbuttons {  
     text-align: center;
     padding: 10px;
     font-weight: bold;
