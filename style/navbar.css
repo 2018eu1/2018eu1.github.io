@@ -126,11 +126,12 @@
   margin: 0;
 }
 
-.navbarLanguageDropButtons {
+.navbarLanguageDropButtons a{
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   align-items: center;
   color: #ffffff;
+  text-decoration: none;
 
   margin: 0;
 }
