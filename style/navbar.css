@@ -32,6 +32,10 @@
     color: #ffffff;
     text-decoration: none;
   }
+
+  #currentLanguage {
+    margin-left: auto;
+  }
 }
 
 @media screen and (max-width: 700px) {
@@ -105,12 +109,14 @@
 /* Sprache  */
 
 #currentLanguage {
+  display: flex;
   flex-direction: row;
   align-items: center;
+  margin-right: 5px;
 }
 
 #languageIcon {
-  margin: 5px;  
+  margin: 0 5px 0 5px;  
 }
 
 /* Sprache wechseln - Dropdown-Menü */
