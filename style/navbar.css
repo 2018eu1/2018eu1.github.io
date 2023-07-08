@@ -109,6 +109,7 @@
 #navbarLangueDrop {
   margin-left: auto;
   padding: 0;
+  position: relative;
 }
 
 #currentLanguage, .navbarLanguageDropButtons {
@@ -128,7 +129,8 @@
 #navbarLangueDrop:hover #languageDropdownContent {
   display: flex;
   flex-direction: column;
-  min-width: 175%
+  min-width: 175%;
+  background-color: #135489;
 
   z-index: 1;
 }
