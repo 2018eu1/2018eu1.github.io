@@ -102,25 +102,15 @@ header {
 
 @media screen and (orientation: landscape){
   .linkTextDivs {
-    width = 50vw;
-    height = 20vh;
-  }
-
-  .linkButtonDivs {
-    width = 50vw;
-    height = 20vh; 
+    width: 50vw;
+    height: 20vh;
   }
 }
 
 @media screen and (orientation: portrait){
-  .linkTextDivs {
-    width = 50vw;
-    height = 10vh;
-  }
-
-  .linkButtonDivs {
-    width = 50vw;
-    height = 20vh; 
+  .linkTextDivs, .linkButtonDivs {
+    width: 50vw;
+    height: 10vh;
   }
 }
 
