@@ -131,13 +131,15 @@
 #languageDropdownContent {
   display: flex;
   flex-direction: column;
+  position: absolute;
   right: 0;
   background-color: #ff0841;
 
   z-index: 1;
+  margin-top: 10px;
 }
 
-.navbatLanguageDropButtons {
+.navbarLanguageDropButtons {
   margin: 5px;
 }
 
