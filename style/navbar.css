@@ -56,9 +56,10 @@
     display: flex;
     flex-direction: row;
     justiify-content: space-between;
+    background-color: #135489;
   }
 
-  #dropdowncontent {
+  #navbardropcontent {
     display: none;
     position: absolute;
     background-color: #135489;
