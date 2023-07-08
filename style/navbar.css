@@ -112,9 +112,19 @@
   position: relative;
 }
 
-#currentLanguage, .navbarLanguageDropButtons {
+#currentLanguage {
   display: flex;
   flex-direction: row;
+  justify-content: right;
+  align-items: center;
+  color: #ffffff;
+
+  margin: 0;
+}
+
+.navbarLanguageDropButtons {
+  display: flex;
+  flex-direction: row-reverse;
   align-items: center;
   color: #ffffff;
 
