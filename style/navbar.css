@@ -135,7 +135,7 @@
 }
 
 #languageDropdownContent {
-  display: flex;
+  display: none;
   flex-direction: column;
   position: absolute;
   right: 0;
@@ -144,6 +144,10 @@
   z-index: 1;
   margin-top: 130px;
   box-shadow: -5px 5px 10px rgba(0,0,0,.2);
+}
+
+#navbarLangueDrop:hover #languageDropdownContent {
+  display: flex;
 }
 
 .navbarLanguageDropButtons {
