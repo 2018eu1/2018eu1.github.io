@@ -82,6 +82,9 @@
     position: absolute;
     background-color: #135489;
     font-family: 'Ubuntu', sans-serif;
+    min-width: 200px;
+    box-shadow: 0px 10px 10px 10px rgba(0,0,0,.2)
+    padding: 0;
   }
 
   #navbardrop {
