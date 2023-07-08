@@ -8,7 +8,6 @@
     display: flex;
     flex-direction: row;
     position: fixed;
-    top: 0;
     background-color: #135489;
 
     font-family: 'Ubuntu', sans-serif;
@@ -53,7 +52,6 @@
     flex-direction: row;
     justify-content: space-between;
     position: fixed;
-    top: 0;
     background-color: #135489;
     font-family: 'Ubuntu', sans-serif;
   }
