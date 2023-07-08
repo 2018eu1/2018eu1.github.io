@@ -35,7 +35,7 @@
     padding: 10px;
     font-weight: bold;
 
-  /* flexbox */
+    /* flexbox */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -78,12 +78,23 @@
     padding: 0;
   }
 
+  .navbardropbuttons, #navbardrop {  
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+
+    /* flexbox */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
   .navbardropbuttons a {
     color: #ffffff;
     text-decoration: none;
   }
-
-  #navbarDropLangue {    
+  
+  #navbarLangue {    
     display: flex;
     flex-direction: row;
     align-items: center;
