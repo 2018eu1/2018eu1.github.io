@@ -100,10 +100,10 @@ header {
 }
 
 .linkTextDivs, .linkButtonDivs {
-  min-height: 10vh 
+  min-height: 10vh; 
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-direction: row;
+  align-items: center;
 }
 
 .linkTextDivs {
@@ -112,10 +112,6 @@ header {
 }
 
 .linkButtonDivs {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
   padding: 5vw;
   width: 40vw;
 }
