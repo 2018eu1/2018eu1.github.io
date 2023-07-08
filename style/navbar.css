@@ -139,13 +139,12 @@
   position: absolute;
   right: 0;
   background-color: #135489;
-  min-width: 175%;
+  width: 175%;
   z-index: 1;
 }
 
 #navbarLangueDrop:hover #languageDropdownContent {
-  display: flex;
-  flex-direction: column;
+  display: block;
 }
 
 #languageIcon {
