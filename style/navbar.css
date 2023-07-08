@@ -108,6 +108,7 @@
 
 #navbarLangueDrop {
   padding: 0;
+  position: relative;
 }
 
 @media screen and (min-width: 701px) {
@@ -116,19 +117,8 @@
   }
 }
 
-#currentLanguage {
+#currentLanguage, .navbarLanguageDropButtons a {
   display: flex;
-  flex-direction: row;
-  justify-content: right;
-  align-items: center;
-  color: #ffffff;
-
-  margin: 0;
-}
-
-.navbarLanguageDropButtons a{
-  display: flex;
-  flex-direction: row;
   align-items: center;
   color: #ffffff;
   text-decoration: none;
@@ -136,13 +126,26 @@
   margin: 0;
 }
 
+#currentLanguage {
+  flex-direction: row;
+}
+
+.navbarLanguageDropButtons a {
+  flex-direction: row-reverse;
+}
+
+#languageDropdownContent {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #135489;
+  min-width: 175%;
+  z-index: 1;
+}
+
 #navbarLangueDrop:hover #languageDropdownContent {
   display: flex;
   flex-direction: column;
-  min-width: 175%;
-  background-color: #135489;
-
-  z-index: 1;
 }
 
 #languageIcon {
