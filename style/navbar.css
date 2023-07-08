@@ -145,11 +145,6 @@
   z-index: 1;
 }
 
-.navbarLanguageDropButtons a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
 #languageIcon {
   margin: 5px;  
 }
