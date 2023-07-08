@@ -1,12 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
-#navbar {
+@media screen and (min-width: 700px) {
+
+#navbar-wide {
   overflow: hidden;
   display: flex;
   flex-direction: row;
   background-color: #135489;
 
   font-family: 'Ubuntu', sans-serif;
+}
+
+#navbar-small {
+  display: none;
 }
 
 #navbarLangue {
@@ -36,4 +42,33 @@
 .navbarbuttons a {
   color: white;
   text-decoration: none;
+}
+
+}
+
+@media screen and (orientation: portrait) and (max-width: 700px) {
+  #navbar-wide {
+    display: none;
+  }
+
+  #navbar-small {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justiify-content: space-between;
+  }
+
+  #dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: #135489;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  #navbardrop:hover #dropdowncontent {
+    display: flex;
+    flex-direction: column;
+    
+    padding: 0;
+  }
 }
