@@ -71,6 +71,10 @@
     font-family: 'Ubuntu', sans-serif;
   }
 
+  #navbardrop {
+    position: relative;
+  }
+
   #navbardrop:hover #navbardropcontent {
     display: flex;
     flex-direction: column;
