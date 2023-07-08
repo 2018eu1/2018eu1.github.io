@@ -82,8 +82,8 @@
     position: absolute;
     background-color: #135489;
     font-family: 'Ubuntu', sans-serif;
-    min-width: 200px;
-    box-shadow: 0px 10px 10px 10px rgba(0,0,0,.2)
+    width: 150%;
+    box-shadow: 0px 10px 10px 10px rgba(0,0,0,.2);
     padding: 0;
 
     z-index: 1;
@@ -96,8 +96,7 @@
   #navbardrop:hover #navbardropcontent {
     display: flex;
     flex-direction: column;
-    
-    padding: 0;
+    align-items: stretch;
   }
 
   .navbardropbuttons {  
