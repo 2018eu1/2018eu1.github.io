@@ -120,6 +120,19 @@
   margin: 0;
 }
 
+#languageDropdownContent {
+  display: none;
+  position: absolute;
+}
+
+#navbarLangueDrop:hover #languageDropdownContent {
+  display: flex;
+  flex-direction: column;
+  min-width: 175%
+
+  z-index: 1;
+}
+
 #languageIcon {
   margin: 5px;  
 }
