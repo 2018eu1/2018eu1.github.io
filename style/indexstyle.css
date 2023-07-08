@@ -114,9 +114,13 @@ header {
   }
 }
 
+.linkTextDivs {
+  padding: 2vw;
+}
+
 .linkButtonDivs {
   align-items: left;
-  margin: 10vw;
+  padding: 5vw
 }
 
 .pageLinkButtons {
