@@ -97,11 +97,13 @@ header {
 .linkDivs {
   display: flex;
   flex-direction: row;
-  align-items: stretch;
 }
 
 .linkTextDivs, .linkButtonDivs {
   min-height: 10vh 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .linkTextDivs {
