@@ -135,3 +135,9 @@
 
   z-index: 1;
 }
+
+.navbarLanguageDropButtons {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
