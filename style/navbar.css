@@ -33,7 +33,7 @@
     text-decoration: none;
   }
 
-  #currentLanguage {
+  #navbarLangueDrop {
     margin-left: auto;
   }
 }
@@ -131,7 +131,7 @@
   display: flex;
   flex-direction: column;
   right: 0;
-  background-color: #135489;
+  background-color: #ff0841;
 
   z-index: 1;
 }
