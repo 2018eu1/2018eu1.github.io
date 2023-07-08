@@ -104,49 +104,19 @@
   }
 }
 
-/* Sprache wechseln */
-
-#navbarLangueDrop {
-  padding: 0;
-  position: relative;
-}
-
-@media screen and (min-width: 701px) {
-  #navbarLangueDrop {
-    margin-left: auto;
-  }
-}
-
-#currentLanguage, .navbarLanguageDropButtons a {
-  display: flex;
-  align-items: center;
-  color: #ffffff;
-  text-decoration: none;
-
-  margin: 0;
-}
+/* Sprache  */
 
 #currentLanguage {
   flex-direction: row;
-}
-
-.navbarLanguageDropButtons a {
-  flex-direction: row-reverse;
-}
-
-#languageDropdownContent {
-  display: none;
-  position: absolute;
-  right: 0;
-  background-color: #135489;
-  width: 175%;
-  z-index: 1;
-}
-
-#navbarLangueDrop:hover #languageDropdownContent {
-  display: block;
+  align-items: center;
 }
 
 #languageIcon {
   margin: 5px;  
+}
+
+/* Sprache wechseln - Dropdown-Menü */
+
+#navbarLangueDrop {
+  color: #ffffff;
 }
