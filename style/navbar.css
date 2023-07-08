@@ -111,6 +111,7 @@
 #currentLanguage {
   display: flex;
   flex-direction: row;
+  justify-content: right;
   align-items: center;
   margin-right: 5px;
 }
@@ -136,7 +137,11 @@
   z-index: 1;
 }
 
-.navbarLanguageDropButtons {
+.navbatLanguageDropButtons {
+  margin: 5px;
+}
+
+.navbarLanguageDropButtons a {
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
