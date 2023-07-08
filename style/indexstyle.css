@@ -100,14 +100,14 @@ header {
   align-items: stretch;
 }
 
-@media screen and (orientation: landscape) {
+@media screen and (orientation: landscape){
   .linkTextDivs, .linkButtonDivs {
     width = 50vw;
     height = 20vh;
   }
 }
 
-@media screen and (orientation: portrait) {
+@media screen and (orientation: portrait){
   .linkTextDivs, .linkButtonDivs {
     width = 50vw;
     height = 10vh;
