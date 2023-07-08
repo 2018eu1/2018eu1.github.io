@@ -119,4 +119,15 @@
 
 #navbarLangueDrop {
   color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+#languageDropdownContent {
+  display: flex;
+  flex-direction: column;
+  right: 0;
+  background-color: #135489;
+
+  z-index: 1;
 }
