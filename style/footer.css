@@ -2,6 +2,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Ubuntu', sans-serif;
 
   background-color: #333333;
   color: #ffffff;
