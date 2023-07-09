@@ -16,8 +16,8 @@
     height: 60vh;
   
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    align-items: center;
   }
 
   #headerDivCenter {
@@ -34,8 +34,8 @@
     height: 40vh;
   
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    align-items: center;
   }
   
   #headerDivCenter {
