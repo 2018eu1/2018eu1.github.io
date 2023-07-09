@@ -172,3 +172,11 @@
   color: inherit;
   text-decoration: none;
 }
+
+/* Platzhalter für NavBar, da diese eine fixe Position hat */
+
+#navbarPlaceholder {
+  height: 50px;
+  color: #135489;
+}
+
