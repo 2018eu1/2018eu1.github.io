@@ -5,6 +5,12 @@ footer {
 
   background-color: #333333;
   color: #ffffff;
+  padding: 2vh
+}
+
+#footerTopLine {
+  height: 3vh;
+  background-color: f3fd0d;
 }
 
 #footerNamesDiv {
