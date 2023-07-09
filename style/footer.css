@@ -36,6 +36,12 @@ footer {
   align-items: center;
 }
 
+#createdWithGithub img {
+  height: 30px;
+  width: 30px;
+  margin-left: 2vw;
+}
+
 .footerNames {
   margin: 0 1vw 0 1vw; 
 }
