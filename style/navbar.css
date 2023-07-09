@@ -72,6 +72,15 @@
 
     color: #ffffff;
   }
+
+  #navbarSmallDropButton {
+    border: none;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    font-weight: inherit;
+    background-color: #135489;
+  }
   
   #navbardropcontent {
     display: none;
