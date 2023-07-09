@@ -7,15 +7,22 @@ footer {
   color: #ffffff;
 }
 
-#footernames {
+#footerNamesDiv {
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 1vh 0 1vh 0;
+}
+
+#footerTitle {
+  text-align: center;
+  font-size: 20px;
 }
 
 #createdWithGithub {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   align-items: center;
 }
