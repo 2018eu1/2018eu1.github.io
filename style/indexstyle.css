@@ -120,6 +120,7 @@ header {
   border: 0;
   padding: 10px;
   background-color: #f3fd0d;
+  width: 150px;
 }
 
 .pageLinkButtons a {
