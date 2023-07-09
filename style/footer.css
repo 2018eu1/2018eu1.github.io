@@ -30,3 +30,7 @@ footer {
 .footerNames {
   margin: 0 1vw 0 1vw; 
 }
+
+.footerNamesClass {
+  font-weight: bold;
+}
