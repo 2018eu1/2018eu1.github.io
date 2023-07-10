@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 /* Alles für den Header */
 
 #headerBienvenue {
@@ -50,7 +49,7 @@
 }
 
 #headerDivLeft {
-  background-image: url('images/IMG_5148.png');
+  background-image: url(images/IMG_5148.png);
 
   width: 40vw;
 }
