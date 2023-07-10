@@ -6,7 +6,7 @@ Jedes Jahr finden am Johanneum zum Schuljahresende die sogenannten Projekttage s
 
 - Informationen zu den Projekten, die im Rahmen der diesjährigen Projekttage durchgarbeitet wurden
 - Seite über die klasseneigene Crêperie und deren "Lieferservice"
-- Weitere nützliche Informationen über die Klassen 9eu1 und 9eu1
+- Weitere nützliche Informationen über die Klassen 9eu1 und 9eu2
 
 ## Entwickler
 
