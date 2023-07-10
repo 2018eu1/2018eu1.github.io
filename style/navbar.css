@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
-
 @media screen and (min-width: 701px) {
 
   /* NavBar bei Geräten mit Viewport-Breite größer 700px (Desktop-Geräte, Tablets, Mobilgeräte im Querformat */
@@ -130,7 +128,6 @@
   flex-direction: row;
   justify-content: right;
   align-items: center;
-  margin-right: 2px;
 }
 
 #languageIcon {
@@ -162,7 +159,7 @@
 }
 
 .navbarLanguageDropButtons {
-  margin: 5px;
+  margin: 10px;
 }
 
 .navbarLanguageDropButtons a {
