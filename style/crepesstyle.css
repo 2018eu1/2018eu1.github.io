@@ -6,6 +6,7 @@ header {
 
   background-image: url("../images/crepesHeaderImage.jpg");
   background-size: cover;
+  background-position: bottom;
   width: 100vw;
 }
 
