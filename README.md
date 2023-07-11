@@ -14,8 +14,9 @@ Jedes Jahr finden am Johanneum zum Schuljahresende die sogenannten Projekttage s
 Felix Pyka, 9eu1<br>
 Rafael Greif, 9eu1<br>
 
+
+<b>Contributor:</b>
 <br>
-<b>Contributor:</b><br>
 Tim Kirchner, 9eu1<br>
 Jakob D'Erme, 9eu1<br>
 
