@@ -13,6 +13,7 @@ Jedes Jahr finden am Johanneum zum Schuljahresende die sogenannten Projekttage s
 <b>Developer:</b><br>
 Felix Pyka, 9eu1<br>
 Rafael Greif, 9eu1<br>
+
 <br>
 <b>Contributor:</b><br>
 Tim Kirchner, 9eu1<br>
