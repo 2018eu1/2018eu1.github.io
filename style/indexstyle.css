@@ -50,6 +50,7 @@
 
 #headerDivLeft {
   background-image: url("../images/IMG_5148.png");
+  background-size: cover;
 
   width: 40vw;
 }
