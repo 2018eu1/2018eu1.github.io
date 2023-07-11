@@ -3,4 +3,19 @@ header {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+
+  background-image: url("../../images/crepesHeaderImage.jpg");
+  width: 100vw;
+}
+
+@media screen and (orientation: landscape) {
+  header {
+    height: 60vh;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  header {
+    height: 40vh;
+  }
 }
