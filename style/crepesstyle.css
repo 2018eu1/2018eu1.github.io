@@ -24,5 +24,6 @@ header {
 
 header span {
   font-size: 6vw;
+  font-weight: bold;
   color: #ffffff;
 }
