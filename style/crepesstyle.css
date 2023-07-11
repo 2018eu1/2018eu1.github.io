@@ -21,3 +21,8 @@ header {
     height: 40vh;
   }
 }
+
+header span {
+  font-size: 6vw;
+  color: #ffffff;
+}
