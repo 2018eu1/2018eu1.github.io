@@ -5,6 +5,7 @@ header {
   align-items: center;
 
   background-image: url("../images/crepesHeaderImage.jpg");
+  background-size: cover;
   width: 100vw;
 }
 
