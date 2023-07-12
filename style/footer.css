@@ -9,11 +9,6 @@ footer {
   padding: 2vh
 }
 
-#footerTopLine {
-  height: 3vh;
-  background-color: f3fd0d;
-}
-
 #footerNamesDiv {
   display: flex;
   flex-direction: row;
