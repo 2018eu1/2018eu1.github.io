@@ -27,3 +27,60 @@ header span {
   font-weight: bold;
   color: #ffffff;
 }
+
+/* Einleitungstext zu Informationen über die Projekte */
+
+#projetsInformation {
+  padding: 5vw;
+  margin: 2vw;
+  border: solid 8px #595959;
+  color: #ffffff;
+  background-color: #1a1a1a;
+  border-radius: 5vw;
+ }
+
+/* Informationen zu den jeweiligen Projekten */
+ 
+ #projetsContainer {
+   display: flex;
+   flex-direction: row;
+   padding: 10px;
+   flex-wrap: wrap;
+   justify-content: center;
+ }
+   
+ .projectsDivContainers {
+   min-height: 30vh;
+   margin: 10px;
+   border: solid 8px #595959;
+   border-radius: 5vh;
+   overflow: hidden;
+
+   @media screen and (max-width: 700px) {
+   width: 80vw; 
+   }
+
+   @media screen and (min-width: 701px) {
+   width: 40vw; 
+   }
+ }
+ 
+ .projectsTopImages {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   height: 10vh;
+   padding: 10px;
+   font-size: 20px;
+   font-weight: bold;
+   color: #ffffff;
+
+   background-image: url("../images/IMG_5148.png");
+ }
+ 
+ .projectsInformationTexts {
+   padding: 10px;
+   background-color: #1a1a1a;
+   color: #ffffff;
+   height: 100%;
+ } 
