@@ -44,8 +44,8 @@ header span {
 
 #divContainer {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  flex-direction: column;
+  aling-items: center;
   padding: 5vh;
   background-color: #333333;
 }
