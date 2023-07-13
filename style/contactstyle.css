@@ -51,6 +51,7 @@ header span {
 }
 
 #classImage {
+  backgound-color: none;
   background-image: url("../images/munich.jpg");
   background-size: cover;
   background-position: 50% 90%;
