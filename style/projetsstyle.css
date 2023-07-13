@@ -30,6 +30,12 @@ header span {
 
 /* Einleitungstext zu Informationen über die Projekte */
 
+#projetsInformationContainer {
+  width: 100vw;
+  background-color: #135489;
+}
+  
+
 #projetsInformation {
   padding: 5vw;
   margin: 2vw;
