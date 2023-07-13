@@ -34,12 +34,13 @@ header span {
   width: 100vw;
   background-color: #135489;
   margin: 0;
+  padding: 2vh 0 2vh 0;
 }
   
 
 #projetsInformation {
   padding: 5vw;
-  margin: 2vw;
+  margin: 0 2vw 0 2vw;
   border: solid 8px #595959;
   color: #ffffff;
   background-color: #1a1a1a;
