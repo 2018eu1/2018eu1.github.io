@@ -77,10 +77,12 @@ header span {
 
 #ingredientsHeading {
   background-image: url("../images/ingredients.jpg");
+  background-position: 50% 70%;
 }
 
 #toppingsHeading {
   background-image: url("../images/toppings.jpg");
+  background-position: 50% 30%
 }
 
 #ingredientsList, #toppingsList {
