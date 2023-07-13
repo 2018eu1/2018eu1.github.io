@@ -34,4 +34,82 @@ header span {
   color: white;
   background-color: #135489;
 }
+
+ #ingredients_toppings_prices {
+   display: flex;
+   flex-direction: row;
+   padding: 10px;
+   flex-wrap: wrap;
+   justify-content: center;
+   background-color: #333333;
+ }
+
+ .itpDivs {
+   min-height: 30vh;
+   margin: 10px;
+   border: solid 8px #595959;
+   border-radius: 5vh;
+   overflow: hidden;
+ }
+
+.itpImages {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   height: 10vh;
+   padding: 10px;
+   font-size: 20px;
+   font-weight: bold;
+   color: #ffffff;
+
+   background-size: cover;
+ }
+
+#ingredients, #toppings {
+   @media screen and (max-width: 700px) {
+   width: 80vw; 
+   }
+
+   @media screen and (min-width: 701px) {
+   width: 40vw; 
+   }
+}
+
+#ingredientsList, #toppingsList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#ingredientsList span, #toppingsList span {
+  margin: 15px;
+}
+
+#prices {
+  width: 80vw;
+}
+
+#priceList {
+  display: flex;
+  flex-direction: row;
+}
+
+.priceListElements {
+  width: 50vw;
+  padding: 10px;
   
+  display: flex;
+  flex-direction: column;
+}
+
+.priceListElements span {
+  margin: 5px;
+}
+
+#pricesCrepes {
+  text-align: left;
+}
+
+#pricesCash{
+  text-align: right;
+}
