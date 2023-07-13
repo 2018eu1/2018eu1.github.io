@@ -75,6 +75,14 @@ header span {
    }
 }
 
+#ingredientsHeading {
+  background-image: url("../images/ingredients.jpg");
+}
+
+#toppingsHeading {
+  background-image: url("../images/toppings.jpg");
+}
+
 #ingredientsList, #toppingsList {
   display: flex;
   flex-direction: row;
