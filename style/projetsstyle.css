@@ -84,10 +84,29 @@ header span {
    font-weight: bold;
    color: #ffffff;
 
-   background-image: url("../images/IMG_5148.png");
    background-size: cover;
  }
- 
+
+#project1topImage {
+  background-image: url("../images/websiteCoding.jpg");
+}
+
+#project2topImage {
+  background-image: url("../images/IMG_5148.png");
+}
+
+#project3topImage {
+  background-image: url("../images/abiBacDesign.jpg");
+}
+
+#project4topImage {
+  background-image: url("../images/braceletFabrication.jpg");
+}
+
+#project5topImage {
+  background-image: url("../images/IMG_5148.png");
+}
+
  .projectsInformationTexts {
    padding: 10px;
    background-color: #1a1a1a;
