@@ -83,6 +83,7 @@ header span {
    color: #ffffff;
 
    background-image: url("../images/IMG_5148.png");
+   background-size: cover;
  }
  
  .projectsInformationTexts {
