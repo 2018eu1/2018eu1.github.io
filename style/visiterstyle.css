@@ -27,3 +27,12 @@ header span {
   font-weight: bold;
   color: #ffffff;
 }
+
+#portfolio {
+  background-color: #1a1a1a;
+  text-align: left;
+  color: #ffffff;
+
+  margin: 0;
+  padding: 5vw;
+}
