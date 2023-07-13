@@ -37,6 +37,13 @@ header span {
   padding: 5vw;
 }
 
+#trouvezNousContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 2vh;
+}
+
 #trouvezNous {
   border: solid 8px #595959;
   border-radius: 5vh;
