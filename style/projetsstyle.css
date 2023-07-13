@@ -89,6 +89,7 @@ header span {
 
 #project1topImage {
   background-image: url("../images/websiteCoding.jpg");
+  background-position: 50% 70%;
 }
 
 #project2topImage {
@@ -97,10 +98,12 @@ header span {
 
 #project3topImage {
   background-image: url("../images/abiBacDesign.jpg");
+  background-position: 50% 60%;
 }
 
 #project4topImage {
   background-image: url("../images/braceletFabrication.jpg");
+  background-position: 50% 60%;
 }
 
 #project5topImage {
