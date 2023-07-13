@@ -1,3 +1,6 @@
+![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/53d36647-ec98-4082-a732-12676ac9bef4)
+
+
 # Projekt: Website über Projekttage der Klassen 9eu1 und 9eu2
 
 Jedes Jahr finden am Johanneum zum Schuljahresende die sogenannten Projekttage statt. Dieses Jahr, 2023, drehen sich die Projekte der Klassen 9eu1 und 9eu2 rund um das Thema "Frankreich". Diese Website, übrigens auch eines dieser Projekte, informiert über die von uns vorbereiteten Projekte.
