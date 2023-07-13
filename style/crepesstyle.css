@@ -45,7 +45,7 @@ header span {
  }
 
  .itpDivs {
-   min-height: 30vh;
+   min-height: 15vh;
    margin: 10px;
    border: solid 8px #595959;
    border-radius: 5vh;
@@ -79,6 +79,11 @@ header span {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  
+  padding: 10px;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  height: 100%;
 }
 
 #ingredientsList span, #toppingsList span {
@@ -87,6 +92,8 @@ header span {
 
 #prices {
   width: 80vw;
+  background-color: #ffffff;
+  padding: 10px;
 }
 
 #priceList {
