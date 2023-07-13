@@ -36,3 +36,12 @@ header span {
   margin: 0;
   padding: 5vw;
 }
+
+#trouvezNous {
+  border: solid 8px #595959;
+  border-radius: 5vh;
+  text-align: left;
+
+  margin: 0;
+  padding: 5vw;
+}
