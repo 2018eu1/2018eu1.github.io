@@ -52,6 +52,7 @@ header span {
 
 #classImage {
   background-image: url("../images/mtStMichelImage.jpg");
+  background-size: cover;
   height: 20vh;
 }
 
