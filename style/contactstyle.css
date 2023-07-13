@@ -37,11 +37,16 @@ header span {
   padding: 5vw;
 }
 
+#portfolioUnderline {
+  height: 3vh;
+  background-color: #f3fd0d;
+}
+
 #trouvezNousContainer {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding: 2vh;
+  padding: 5vh;
 }
 
 #trouvezNous {
