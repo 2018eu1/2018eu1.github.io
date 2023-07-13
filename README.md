@@ -34,7 +34,6 @@ https://9eu1.github.io/France-Project.github.io/
 
 ![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/f1dfbc70-f878-4674-8712-8a91e0dd7e2e)
 
-![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/1b420689-b0b2-4144-934d-61091b0e6f3e)
 
 
 
