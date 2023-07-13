@@ -37,23 +37,31 @@ header span {
   padding: 5vw;
 }
 
-#portfolioUnderline {
+.portfolioUnderlines {
   height: 3vh;
   background-color: #f3fd0d;
 }
 
-#trouvezNousContainer {
+#divContainer {
   display: flex;
   flex-direction: row;
   justify-content: center;
   padding: 5vh;
+  background-color: #333333;
 }
 
-#trouvezNous {
+#classImage {
+  background-image: url("../images/IMG_5148.png");
+  height: 20vh;
+  width: 80vw;
+}
+
+.contactDivs {
   border: solid 8px #595959;
   border-radius: 5vh;
   text-align: left;
 
   margin: 0;
   padding: 5vw;
+  background-color: #ffffff;
 }
