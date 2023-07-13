@@ -51,10 +51,16 @@ header span {
 }
 
 #classImage {
-  backgound-color: none;
+  border: solid 8px #595959;
+  border-radius: 5vh;
+
+  margin: 3vw;
+  padding: 5vw;
+
   background-image: url("../images/munich.jpg");
   background-size: cover;
   background-position: 50% 90%;
+
   height: 15vh;
 }
 
