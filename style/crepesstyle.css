@@ -104,6 +104,10 @@ header span {
   padding: 10px;
 }
 
+#prices h3 {
+  margin: 15px;
+}
+
 #priceList {
   display: flex;
   flex-direction: row;
