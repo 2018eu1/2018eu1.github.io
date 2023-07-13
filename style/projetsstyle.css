@@ -47,6 +47,7 @@ header span {
    padding: 10px;
    flex-wrap: wrap;
    justify-content: center;
+   background-color: #135489;
  }
    
  .projectsDivContainers {
