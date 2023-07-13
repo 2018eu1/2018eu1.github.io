@@ -51,9 +51,10 @@ header span {
 }
 
 #classImage {
-  background-image: url("../images/IMG_5148.png");
+  background-image: url("../images/munich.jpg");
   background-size: cover;
-  height: 15px
+  background-position: 50% 90%;
+  height: 15vh;
 }
 
 .contactDivs {
