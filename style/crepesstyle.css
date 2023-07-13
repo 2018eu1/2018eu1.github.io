@@ -27,3 +27,12 @@ header span {
   font-weight: bold;
   color: #ffffff;
 }
+
+#crepesInformation {
+  margin: 0;
+  patting: 5vw;
+  color: white;
+  background-color: #1a1a1a;
+
+}
+  
