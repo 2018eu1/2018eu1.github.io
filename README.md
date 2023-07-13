@@ -23,7 +23,7 @@ Jakob D'Erme, 9eu1<br>
 
 ## Website
 
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2F9eu1.github.io%2FFrance-Project.github.io%2Findex.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" />
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2F9eu1.github.io%2FFrance-Project.github.io%2Findex.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code"/>
 
  
 https://9eu1.github.io/France-Project.github.io/
