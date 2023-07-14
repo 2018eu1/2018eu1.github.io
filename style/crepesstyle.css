@@ -160,6 +160,6 @@ header span {
   align-items: center;
 }
 
-#adresseSchulCloud img, #prixService span{
+#adresseSchulCloud img, #adresseSchulCloud span, #prixService span {
   margin-left: 10px;
 }
