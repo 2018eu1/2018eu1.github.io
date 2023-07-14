@@ -104,7 +104,6 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  background-size: cover;
 }
 
 .linkTextDivs {
@@ -133,17 +132,20 @@ header {
 
 #linkVisiterTextDiv {
   background-image: url("../images/door.jpg");
+  background-size: cover;
   background-position: 50% 25%;
   color: #ffffff;
 }
 
 #linkProjetsTextDiv {
   background-image: url("../images/paris.jpg");
+  background-size: cover;
   color: #ffffff;
 }
 
 #linkCrepesTextDiv {
   background-image: url("../images/crepesStack.jpg");
+  background-size: cover;
 }
 
 #linkProjetsButtonDiv {
