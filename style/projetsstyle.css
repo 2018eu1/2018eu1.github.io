@@ -64,15 +64,19 @@ header span {
    border: solid 8px #595959;
    border-radius: 5vh;
    overflow: hidden;
-
-   @media screen and (max-width: 700px) {
-     width: 80vw; 
-   }
-
-   @media screen and (min-width: 701px) {
-     width: 40vw;
-   }
  }
+
+@media screen and (max-width: 700px) {
+  .projectsDivContainers {
+    width: 80vw;
+  }
+}
+
+@media screen and (min-width: 701px) {
+  .projectsDivContainers {
+    width: 40vw;
+  }
+}
  
  .projectsTopImages {
    display: flex;
