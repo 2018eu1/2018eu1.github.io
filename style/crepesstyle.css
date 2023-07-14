@@ -96,7 +96,7 @@ header span {
   height: 100%;
 }
 
-#ingredientsList span, #toppingsList span {
+#ingredientsList p span, #toppingsList p span {
   margin: 30px 15px 30px 15px ;
 }
 
