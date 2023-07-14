@@ -134,3 +134,33 @@ header span {
 #pricesCash{
   text-align: right;
 }
+
+/* Lieferservice */
+
+#service {
+  padding: 15px;
+}
+
+#infoSCDiv, #adresseSCDiv, #prixSCDiv {
+  margin: 10px;
+}
+
+#adresseSCDivs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#adresseSchulCloud {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#adresseSchulCloud img {
+  margin-left: 10px;
+}
+
+#adresseSchulCloud span, #prixService span {
+  margin-left: 10px;
+}
