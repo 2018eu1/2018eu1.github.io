@@ -131,6 +131,7 @@ header {
 
 #linkVisiterTextDiv {
   background-image: url("../images/door.jpg");
+  background-position: 50% 25%;
   color: #ffffff;
 }
 
