@@ -107,7 +107,8 @@ header span {
 }
 
 #project5topImage {
-  background-image: url("../images/IMG_5148.png");
+  background-image: url("../images/choreo.jpg");
+  background-position: 50% 40%;
 }
 
  .projectsInformationTexts {
