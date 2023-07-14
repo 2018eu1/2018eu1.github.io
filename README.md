@@ -35,6 +35,13 @@ https://9eu1.github.io/France-Project.github.io/
 
 ## Übersicht der Startseite
 
----
+![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/50788fdf-e76e-472b-8100-d694471a4a24)
+
+
+
+
+![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/fa684c3b-12ff-434b-bbca-bc1512c4b144)
+
+
 
 
