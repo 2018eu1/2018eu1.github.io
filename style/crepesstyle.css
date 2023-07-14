@@ -145,7 +145,7 @@ header span {
   margin: 10px;
 }
 
-#adresseSCDivs {
+#adresseSCDiv {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -157,10 +157,6 @@ header span {
   align-items: center;
 }
 
-#adresseSchulCloud img {
-  margin-left: 10px;
-}
-
-#adresseSchulCloud span, #prixService span {
+#adresseSchulCloud img, #adresseSchulCloud span{
   margin-left: 10px;
 }
