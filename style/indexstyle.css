@@ -129,6 +129,11 @@ header {
   font-family: 'Barlow', sans-serif; 
 }
 
+#linkVisiterTextDiv {
+  background-image: url("../images/door.jpg");
+  color: #ffffff;
+}
+
 #linkProjetsButtonDiv {
   background-color: #1a1a1a;
 }
