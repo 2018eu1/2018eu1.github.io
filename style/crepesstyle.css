@@ -97,7 +97,7 @@ header span {
 }
 
 #ingredientsList span, #toppingsList span {
-  margin: 15px ;
+  margin: 30px 15px 30px 15px ;
 }
 
 #prices {
