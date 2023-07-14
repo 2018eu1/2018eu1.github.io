@@ -160,3 +160,7 @@ header span {
 #adresseSchulCloud img, #adresseSchulCloud span{
   margin-left: 10px;
 }
+
+#service {
+  display: block;
+}
