@@ -145,7 +145,7 @@ header span {
   margin: 10px 0 10px 0;
 }
 
-#adresseSCDiv {
+#adresseSCDiv, #prixSCDiv {
   display: flex;
   flex-direction: row;
   align-items: center;
