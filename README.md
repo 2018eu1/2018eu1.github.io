@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=9eu1&style=for-the-badge)
+
 ![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/53d36647-ec98-4082-a732-12676ac9bef4)
 
 
