@@ -139,6 +139,9 @@ header span {
 
 #service {
   padding: 15px;
+  
+  display: flex;
+  flex-direction: column;
 }
 
 #infoSCDiv, #adresseSCDiv, #prixSCDiv {
@@ -159,9 +162,4 @@ header span {
 
 #adresseSchulCloud img, #adresseSchulCloud span{
   margin-left: 10px;
-}
-
-#service {
-  display: flex;
-  flex-direction: column;
 }
