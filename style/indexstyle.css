@@ -134,6 +134,10 @@ header {
   color: #ffffff;
 }
 
+#linksCrepesTextDiv {
+  background-image: url("../images/crepesStack.jpg");
+}
+
 #linkProjetsButtonDiv {
   background-color: #1a1a1a;
 }
