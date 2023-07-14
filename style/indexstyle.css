@@ -136,7 +136,12 @@ header {
   color: #ffffff;
 }
 
-#linksCrepesTextDiv {
+#linkProjetsTextDiv {
+  background-image: url("../images/paris.jpg");
+  color: #ffffff;
+}
+
+#linkCrepesTextDiv {
   background-image: url("../images/crepesStack.jpg");
 }
 
