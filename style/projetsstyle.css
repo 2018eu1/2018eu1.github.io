@@ -93,7 +93,8 @@ header span {
 }
 
 #project2topImage {
-  background-image: url("../images/IMG_5148.png");
+  background-image: url("../images/crepesFabrication.jpg");
+  background-position: bottom;
 }
 
 #project3topImage {
