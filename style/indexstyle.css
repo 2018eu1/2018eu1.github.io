@@ -139,6 +139,7 @@ header {
 #linkProjetsTextDiv {
   background-image: url("../images/parisOverview.jpg");
   background-size: cover;
+  background-position: 50% 60%;
   color: #ffffff;
 }
 
