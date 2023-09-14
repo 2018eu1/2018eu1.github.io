@@ -16,3 +16,10 @@ body {
 .subheadings {
   font-size: 20px;
 }
+
+.note {
+  padding: 5vw;
+  margin: 0;
+  color: #ffffff;
+  background-color: #333333;
+}

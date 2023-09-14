@@ -146,6 +146,10 @@ header span {
   flex-direction: column;
 }
 
+#crepesNoteText {
+  color: orange;
+}
+
 #infoSCDiv, #adresseSCDiv, #prixSCDiv {
   margin: 10px 0 10px 0;
 }
