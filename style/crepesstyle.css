@@ -90,7 +90,7 @@ header span {
   background-position: 50% 50%;
 }
 
-#ingredientsList, #toppingsList {
+#ingredientsList, #toppingsList, #teaList {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
