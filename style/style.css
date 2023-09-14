@@ -20,6 +20,12 @@ body {
 .note {
   padding: 5vw;
   margin: 0;
+  text-align: center;
   color: #ffffff;
   background-color: #333333;
+  font-size: 8px;
+}
+
+.note b {
+  color: orange;
 }

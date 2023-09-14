@@ -85,6 +85,11 @@ header span {
   background-position: 50% 50%
 }
 
+#teaHeading {
+  background-image: url("../images/tea.jpg");
+  background-position: 50% 50%;
+}
+
 #ingredientsList, #toppingsList {
   display: flex;
   flex-direction: row;
@@ -96,7 +101,7 @@ header span {
   height: 100%;
 }
 
-#ingredientsList p span, #toppingsList p span {
+#ingredientsList p span, #toppingsList p span, #teaList p span {
   margin: 30px 15px 30px 15px ;
 }
 
