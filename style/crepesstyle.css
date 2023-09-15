@@ -94,6 +94,7 @@ header span {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
   
   padding: 10px;
   background-color: #1a1a1a;
@@ -101,7 +102,7 @@ header span {
   height: 100%;
 }
 
-#ingredientsList p span, #toppingsList p span, #teaList p span {
+#ingredientsList span, #toppingsList span, #teaList span {
   margin: 30px 15px 30px 15px ;
 }
 
