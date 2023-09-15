@@ -83,21 +83,14 @@ header span {
   margin: 0.5vh;
 }
 
-.devGithubLinksA img, .devGithubLinksA span {
-  margin-left: 10px;
-}
-
-.devGithubLinksA img {
-  height: 30px;
-  width: 30px;
-}
-
-.devGithubLinksA span{
-  color: #000066;
+.devGithubLinksA {
+  color: #000044;
   text-decoration: none;
   display: flex;
   flex-direction: row;
-  justify-content: left;
   align-items: center;
+}
 
+.devGithubLinksA img, .devGithubLinksA span {
+  margin-left: 10px;
 }
