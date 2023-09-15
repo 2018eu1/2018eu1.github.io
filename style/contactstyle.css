@@ -74,19 +74,30 @@ header span {
   background-color: #ffffff;
 }
 
+#devGithubLinks {
+  display: flex;
+  flex-direction: column;
+}
+
 .profiles {
   margin: 0.5vh;
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-  align-items: center;
 }
 
 .devGithubLinksA img, .devGithubLinksA span {
   margin-left: 10px;
 }
 
-.devGithubLinksA {
+.devGithubLinksA img {
+  height: 30px;
+  width: 30px;
+}
+
+.devGithubLinksA span{
   color: #000033;
   text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+
 }
