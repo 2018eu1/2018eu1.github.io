@@ -65,7 +65,7 @@ header span {
    background-size: cover;
  }
 
-#ingredients, #toppings {
+#ingredients, #toppings, # teas{
    @media screen and (max-width: 700px) {
    width: 80vw; 
    }
@@ -92,14 +92,14 @@ header span {
 
 #ingredientsList, #toppingsList, #teaList {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
   
   padding: 30px 15px 30px 15px;
   background-color: #1a1a1a;
   color: #ffffff;
-  height: 100%;
+  height: fit-content 100%;
 }
 
 #ingredientsList span, #toppingsList span, #teaList span {
