@@ -1,13 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,500&family=Ubuntu:wght@300&display=swap');
-@font-face {
-  font-family: 'AvenirNextLTPro-Regular';
-  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot');
-  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.woff') format('woff'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.ttf') format('truetype'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.svg#AvenirNextLTPro-Regular') format('svg');
-}
+@import url('https://fonts.cdnfonts.com/css/avenir');
 
 html, body {
   padding: 0;
@@ -16,7 +9,7 @@ html, body {
 }
 
 body {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', sans-serif;
   overflow-x: hidden;
   min-height: 100vh;
 }
