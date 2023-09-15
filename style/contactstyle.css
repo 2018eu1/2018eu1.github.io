@@ -45,7 +45,7 @@ header span {
 #divContainer {
   display: flex;
   flex-direction: column;
-  aling-items: center;
+  align-items: center;
   padding: 5vh;
   background-color: #333333;
 }
@@ -72,4 +72,21 @@ header span {
   margin: 3vw;
   padding: 5vw;
   background-color: #ffffff;
+}
+
+.profiles {
+  margin: 0.5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+
+.devGithubLinksA img, .devGithubLinksA span {
+  margin-left: 10px;
+}
+
+.devGithubLinksA {
+  color: #000033;
+  text-decoration: none;
 }
