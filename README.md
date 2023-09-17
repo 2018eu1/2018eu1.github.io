@@ -19,8 +19,8 @@ Im Rahmen der alljährlichen Projekttage am Johanneum haben die damaligen Klasse
 
 Diese Website wurde von zwei Schülern der Klasse 10eu1 entwickelt.
 
-<a href="https://github.com/flxp229" target="_blank">@flxp229</a><br>
-<a href="https://github.com/rafaelg7" target="_blank">@rafaelg7</a>
+<a href="https://github.com/flxp229">@flxp229</a><br>
+<a href="https://github.com/rafaelg7">@rafaelg7</a>
 
 ## Link zur Website
 
