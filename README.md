@@ -1,36 +1,31 @@
-![](https://komarev.com/ghpvc/?username=9eu1&style=for-the-badge)
+<img src="https://github.com/2018eu1/2018eu1.github.io/assets/99750966/6103f82d-c468-440c-a189-4e4aaab89e5f" style="width:100%;">
 
-![image](https://github.com/9eu1/France-Project.github.io/assets/138294493/53d36647-ec98-4082-a732-12676ac9bef4)
+# Website über die Klassen 10eu1 & 10eu2
 
+Willkommen! Dieses GitHub-Repository enthält den gesamten Quellcode unserer Website, und wir stellen ihn euch hier zur Verfügung.
 
-# Projekt: Website über Projekttage der Klassen 9eu1 und 9eu2
+## Wie diese Website entstand
 
-Jedes Jahr finden am Johanneum zum Schuljahresende die sogenannten Projekttage statt. Dieses Jahr, 2023, drehen sich die Projekte der Klassen 9eu1 und 9eu2 rund um das Thema "Frankreich". Diese Website, übrigens auch eines dieser Projekte, informiert über die von uns vorbereiteten Projekte.
+Im Rahmen der alljährlichen Projekttage am Johanneum haben die damaligen Klassen 9eu1 und 9eu2 gemeinsam zahlreiche Projekte zum Thema »Frankreich« vorbereitet. Wir, Schüler der damaligen 9eu1, haben uns die Entwicklung einer bilingualen Website, zu 100% eigenständig mit HTML und CSS kodiert, zur Aufgabe gemacht. Ursprünglich diente die Website dazu, anderen Schülern während der Projekttage einen Einblick in unsere Arbeit zu geben und auf unseren Crêpe-Verkauf aufmerksam zu machen.
 
-## Inhalt
+## Aktueller Inhalt
 
-- Informationen zu den Projekten, die im Rahmen der diesjährigen Projekttage durchgarbeitet wurden
-- Seite über die klasseneigene Crêperie und deren "Lieferservice"
-- Weitere nützliche Informationen über die Klassen 9eu1 und 9eu2
-- Unter Anderem wird es in der Kopfzeile in der rechten Ecke eine Auswahl zwischen zwei Sprachen geben: französisch, deutsch
+- Alles Wichtige über uns
+- Informationen zu den Projekten, die im Rahmen der Projekttage erarbeitet wurden
+- Seite über unseren Crêpe- (mittlerweile auch Tee-) Verkauf
+- Die Website ist sowohl in deutscher als auch französischer Sprache verfügbar
 
 ## Entwickler
 
-<b>Developer:</b><br>
+Diese Website wurde von zwei Schülern der Klasse 10eu1 entwickelt.
 
-Felix Pyka, 9eu1<br>
-Rafael Greif, 9eu1<br>
+<a href="https://github.com/flxp229" target="_blank">@flxp229</a><br>
+<a href="https://github.com/rafaelg7" target="_blank">@rafaelg7</a>
 
+## Link zur Website
 
-<b>Contributor:</b><br>
+<img src="https://github.com/2018eu1/2018eu1.github.io/assets/99750966/6c08048f-80a9-4b6c-85cc-0b5e35cdc2d4" height="200px" width="200px"><br>
 
-Tim Kirchner, 9eu1<br>
-Jakob D'Erme, 9eu1<br>
+<a href="https://2018eu.github.io/pages/de-de/germanIndex.html" target="_blank">https://2018eu1.github.io</a>
 
-
-## Website
-
-<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2F9eu1.github.io%2FFrance-Project.github.io%2Findex.html&amp;qzone=1&amp;margin=0&amp;size=400x400&amp;ecc=L" alt="qr code" height="250px"/>
-
- 
-https://2018.github.io/France-Project.github.io/
+<img src="https://github.com/2018eu1/2018eu1.github.io/assets/99750966/cfc92c70-5c91-4c07-bad7-d9b72d896c79" style="width:100%;">
