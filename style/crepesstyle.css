@@ -65,7 +65,7 @@ header span {
    background-size: cover;
  }
 
-#ingredients, #toppings, # teas{
+#ingredients, #toppings {
    @media screen and (max-width: 700px) {
    width: 80vw; 
    }
